@@ -1,0 +1,10 @@
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\bin\Debug\DatosPersonales.exe.config
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\bin\Debug\DatosPersonales.exe
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\bin\Debug\DatosPersonales.pdb
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\DatosPersonales.DatosPersonales.resources
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\DatosPersonales.Properties.Resources.resources
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\MiApp.csproj.GenerateResource.cache
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\MiApp.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\DatosPersonales.exe
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\DatosPersonales.pdb
+C:\Users\Ignacio\source\repos\DatosPersonales\DatosPersonales\obj\Debug\MiApp.csprojAssemblyReference.cache
