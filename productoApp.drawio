@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-11T23:40:33.313Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="iNNZsF6O26csCNzICAAj" version="13.6.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-11T23:40:39.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="vD1BRqoE1USI7LhbnOsk" version="13.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1021" dy="1698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,35 +211,6 @@
             <mxPoint x="432" y="190" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="EY1O41QMIVjwtu9zSub2" name="Page-2">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-0" />
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-1" parent="SEXyCJRQgmCte7AJDS-B-0" />
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-2" value="Administracion de Articulos" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="240" y="40" width="490" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-6" value="Buscar Articulo" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="430" y="260" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-8" value="Agregar Articulos" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="240" y="260" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-9" value="Modificar Articulos" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="610" y="260" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-10" value="Eliminar Articulos" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="240" y="350" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-11" value="Ver Detalle de Articulo" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="590" y="350" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SEXyCJRQgmCte7AJDS-B-13" value="Listado De articulos" style="html=1;" vertex="1" parent="SEXyCJRQgmCte7AJDS-B-1">
-          <mxGeometry x="240" y="120" width="490" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
